@@ -1,0 +1,6 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\GameOfNumbers\bin\Debug\GameOfNumbers.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\GameOfNumbers\bin\Debug\GameOfNumbers.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\GameOfNumbers\bin\Debug\GameOfNumbers.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\GameOfNumbers\obj\Debug\GameOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\GameOfNumbers\obj\Debug\GameOfNumbers.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\GameOfNumbers\obj\Debug\GameOfNumbers.pdb

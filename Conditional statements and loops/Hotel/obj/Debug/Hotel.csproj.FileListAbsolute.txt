@@ -1,0 +1,7 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\Hotel\bin\Debug\Hotel.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\Hotel\obj\Debug\Hotel.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\Hotel\obj\Debug\Hotel.pdb

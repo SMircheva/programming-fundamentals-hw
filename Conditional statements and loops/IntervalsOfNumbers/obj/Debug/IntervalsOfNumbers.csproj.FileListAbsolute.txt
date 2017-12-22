@@ -1,0 +1,7 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\IntervalsOfNumbers\bin\Debug\IntervalsOfNumbers.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\IntervalsOfNumbers\bin\Debug\IntervalsOfNumbers.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\IntervalsOfNumbers\bin\Debug\IntervalsOfNumbers.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\IntervalsOfNumbers\obj\Debug\IntervalsOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\IntervalsOfNumbers\obj\Debug\IntervalsOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\IntervalsOfNumbers\obj\Debug\IntervalsOfNumbers.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\IntervalsOfNumbers\obj\Debug\IntervalsOfNumbers.pdb

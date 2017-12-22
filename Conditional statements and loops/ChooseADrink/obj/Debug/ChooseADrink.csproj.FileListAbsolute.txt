@@ -1,0 +1,7 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\ChooseADrink\bin\Debug\ChooseADrink.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\ChooseADrink\bin\Debug\ChooseADrink.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\ChooseADrink\bin\Debug\ChooseADrink.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\ChooseADrink\obj\Debug\ChooseADrink.csprojResolveAssemblyReference.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\ChooseADrink\obj\Debug\ChooseADrink.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\ChooseADrink\obj\Debug\ChooseADrink.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\ChooseADrink\obj\Debug\ChooseADrink.pdb

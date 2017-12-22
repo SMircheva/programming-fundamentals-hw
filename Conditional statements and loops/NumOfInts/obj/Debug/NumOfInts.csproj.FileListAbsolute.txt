@@ -1,0 +1,6 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\NumOfInts\bin\Debug\NumOfInts.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\NumOfInts\bin\Debug\NumOfInts.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\NumOfInts\bin\Debug\NumOfInts.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\NumOfInts\obj\Debug\NumOfInts.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\NumOfInts\obj\Debug\NumOfInts.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\NumOfInts\obj\Debug\NumOfInts.pdb

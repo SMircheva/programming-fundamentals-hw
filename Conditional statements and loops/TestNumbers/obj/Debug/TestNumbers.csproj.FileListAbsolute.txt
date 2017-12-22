@@ -1,0 +1,7 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\TestNumbers\bin\Debug\TestNumbers.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\TestNumbers\bin\Debug\TestNumbers.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\TestNumbers\bin\Debug\TestNumbers.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\TestNumbers\obj\Debug\TestNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\TestNumbers\obj\Debug\TestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\TestNumbers\obj\Debug\TestNumbers.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\TestNumbers\obj\Debug\TestNumbers.pdb

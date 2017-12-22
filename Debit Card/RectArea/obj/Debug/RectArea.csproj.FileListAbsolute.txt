@@ -1,0 +1,6 @@
+C:\Users\Silviya\source\repos\Debit Card\RectArea\bin\Debug\RectArea.exe.config
+C:\Users\Silviya\source\repos\Debit Card\RectArea\bin\Debug\RectArea.exe
+C:\Users\Silviya\source\repos\Debit Card\RectArea\bin\Debug\RectArea.pdb
+C:\Users\Silviya\source\repos\Debit Card\RectArea\obj\Debug\RectArea.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Debit Card\RectArea\obj\Debug\RectArea.exe
+C:\Users\Silviya\source\repos\Debit Card\RectArea\obj\Debug\RectArea.pdb

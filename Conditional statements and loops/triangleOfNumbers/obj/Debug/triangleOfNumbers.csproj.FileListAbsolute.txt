@@ -1,0 +1,6 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\triangleOfNumbers\bin\Debug\triangleOfNumbers.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\triangleOfNumbers\bin\Debug\triangleOfNumbers.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\triangleOfNumbers\bin\Debug\triangleOfNumbers.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\triangleOfNumbers\obj\Debug\triangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\triangleOfNumbers\obj\Debug\triangleOfNumbers.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\triangleOfNumbers\obj\Debug\triangleOfNumbers.pdb

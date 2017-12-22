@@ -1,0 +1,7 @@
+C:\Users\Silviya\source\repos\Debit Card\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.exe.config
+C:\Users\Silviya\source\repos\Debit Card\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.exe
+C:\Users\Silviya\source\repos\Debit Card\Intro and Basic Syntax\bin\Debug\Intro and Basic Syntax.pdb
+C:\Users\Silviya\source\repos\Debit Card\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.csprojResolveAssemblyReference.cache
+C:\Users\Silviya\source\repos\Debit Card\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Debit Card\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.exe
+C:\Users\Silviya\source\repos\Debit Card\Intro and Basic Syntax\obj\Debug\Intro and Basic Syntax.pdb

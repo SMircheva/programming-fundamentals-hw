@@ -1,0 +1,7 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\Plurals\bin\Debug\Plurals.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\Plurals\bin\Debug\Plurals.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\Plurals\bin\Debug\Plurals.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\Plurals\obj\Debug\Plurals.csprojResolveAssemblyReference.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\Plurals\obj\Debug\Plurals.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\Plurals\obj\Debug\Plurals.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\Plurals\obj\Debug\Plurals.pdb

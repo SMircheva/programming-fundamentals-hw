@@ -1,0 +1,6 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\CaloriesCounter\obj\Debug\CaloriesCounter.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\CaloriesCounter\obj\Debug\CaloriesCounter.pdb

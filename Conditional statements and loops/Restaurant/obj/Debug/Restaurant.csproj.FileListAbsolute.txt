@@ -1,0 +1,7 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\Restaurant\obj\Debug\Restaurant.pdb

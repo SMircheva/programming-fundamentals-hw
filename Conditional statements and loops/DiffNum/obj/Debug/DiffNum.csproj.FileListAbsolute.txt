@@ -1,0 +1,6 @@
+C:\Users\Silviya\source\repos\Conditional statements and loops\DiffNum\obj\Debug\DiffNum.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Conditional statements and loops\DiffNum\bin\Debug\DiffNum.exe.config
+C:\Users\Silviya\source\repos\Conditional statements and loops\DiffNum\bin\Debug\DiffNum.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\DiffNum\bin\Debug\DiffNum.pdb
+C:\Users\Silviya\source\repos\Conditional statements and loops\DiffNum\obj\Debug\DiffNum.exe
+C:\Users\Silviya\source\repos\Conditional statements and loops\DiffNum\obj\Debug\DiffNum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Silviya\source\repos\Debit Card\CharStats\bin\Debug\CharStats.exe.config
+C:\Users\Silviya\source\repos\Debit Card\CharStats\bin\Debug\CharStats.exe
+C:\Users\Silviya\source\repos\Debit Card\CharStats\bin\Debug\CharStats.pdb
+C:\Users\Silviya\source\repos\Debit Card\CharStats\obj\Debug\CharStats.csproj.CoreCompileInputs.cache
+C:\Users\Silviya\source\repos\Debit Card\CharStats\obj\Debug\CharStats.exe
+C:\Users\Silviya\source\repos\Debit Card\CharStats\obj\Debug\CharStats.pdb
