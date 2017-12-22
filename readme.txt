@@ -1,3 +1,1 @@
-All my homeworks for the Programming fundamentals course are uploaded here.
-
-Enjoy!
+Here you can find all my homeworks from the Programming Fundamentals course
