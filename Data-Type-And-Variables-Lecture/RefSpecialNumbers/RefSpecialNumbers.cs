@@ -11,7 +11,7 @@ namespace RefSpecialNumbers
         static void Main(string[] args)
         {
             int number = int.Parse(Console.ReadLine());
-            int speci = 0;
+           
             
             for (int i = 1; i <= number; i++)
             {
