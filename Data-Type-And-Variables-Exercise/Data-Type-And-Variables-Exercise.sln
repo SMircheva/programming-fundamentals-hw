@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatPoint", "FloatPoint\Fl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharsAndStrings", "CharsAndStrings\CharsAndStrings.csproj", "{012DF851-9BD4-4225-91BA-DD2156DF8335}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexadecimalConvert", "HexadecimalConvert\HexadecimalConvert.csproj", "{63E6DC1F-84FD-4516-BEA8-7F9C9FD4EE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolVariable", "BoolVariable\BoolVariable.csproj", "{4BC6939B-2118-4637-A880-33DDED38B632}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{012DF851-9BD4-4225-91BA-DD2156DF8335}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{012DF851-9BD4-4225-91BA-DD2156DF8335}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{012DF851-9BD4-4225-91BA-DD2156DF8335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E6DC1F-84FD-4516-BEA8-7F9C9FD4EE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E6DC1F-84FD-4516-BEA8-7F9C9FD4EE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E6DC1F-84FD-4516-BEA8-7F9C9FD4EE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E6DC1F-84FD-4516-BEA8-7F9C9FD4EE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC6939B-2118-4637-A880-33DDED38B632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC6939B-2118-4637-A880-33DDED38B632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC6939B-2118-4637-A880-33DDED38B632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC6939B-2118-4637-A880-33DDED38B632}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
