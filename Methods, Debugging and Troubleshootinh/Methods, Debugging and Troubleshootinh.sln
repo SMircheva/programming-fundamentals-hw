@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathPower", "MathPower\Math
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterOfTwoValues", "GreaterOfTwoValues\GreaterOfTwoValues.csproj", "{CC9805C1-88F6-48C1-AAB0-F4F60727B688}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyEvensByOdds", "MultiplyEvensByOdds\MultiplyEvensByOdds.csproj", "{A01C2310-2D60-4836-ADC9-093F2D5BC0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidaysBetweenDates", "HolidaysBetweenDates\HolidaysBetweenDates.csproj", "{167D3CF3-EDA0-4B0C-A917-925F69984EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceChangeAlert", "PriceChangeAlert\PriceChangeAlert.csproj", "{CAC161F7-2B41-48BF-82EE-ECE7A3F9804D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +63,18 @@ Global
 		{CC9805C1-88F6-48C1-AAB0-F4F60727B688}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC9805C1-88F6-48C1-AAB0-F4F60727B688}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC9805C1-88F6-48C1-AAB0-F4F60727B688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01C2310-2D60-4836-ADC9-093F2D5BC0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01C2310-2D60-4836-ADC9-093F2D5BC0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01C2310-2D60-4836-ADC9-093F2D5BC0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01C2310-2D60-4836-ADC9-093F2D5BC0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167D3CF3-EDA0-4B0C-A917-925F69984EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167D3CF3-EDA0-4B0C-A917-925F69984EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167D3CF3-EDA0-4B0C-A917-925F69984EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167D3CF3-EDA0-4B0C-A917-925F69984EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC161F7-2B41-48BF-82EE-ECE7A3F9804D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC161F7-2B41-48BF-82EE-ECE7A3F9804D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC161F7-2B41-48BF-82EE-ECE7A3F9804D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC161F7-2B41-48BF-82EE-ECE7A3F9804D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
