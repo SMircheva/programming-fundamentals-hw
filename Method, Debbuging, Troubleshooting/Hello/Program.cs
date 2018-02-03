@@ -8,8 +8,14 @@ namespace Hello
 {
     class Program
     {
+        static void GreetByName (string firstName)
+        {
+            Console.WriteLine("Hello, " + firstName + "!");
+        }
+
         static void Main(string[] args)
         {
+            GreetByName(Console.ReadLine());
         }
     }
 }
