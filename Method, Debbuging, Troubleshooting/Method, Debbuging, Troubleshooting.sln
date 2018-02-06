@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrailingZeros", "TrailingZeros\TrailingZeros.csproj", "{72530964-C536-4114-89D1-13355853EA7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstructionSet", "InstructionSet\InstructionSet.csproj", "{5BF56C3B-3974-480D-882A-B7FB44B1CDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BePositive", "BePositive\BePositive.csproj", "{73EF0E87-F044-44E8-84A4-A1F486DF2BEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{72530964-C536-4114-89D1-13355853EA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72530964-C536-4114-89D1-13355853EA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72530964-C536-4114-89D1-13355853EA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BF56C3B-3974-480D-882A-B7FB44B1CDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF56C3B-3974-480D-882A-B7FB44B1CDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF56C3B-3974-480D-882A-B7FB44B1CDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF56C3B-3974-480D-882A-B7FB44B1CDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73EF0E87-F044-44E8-84A4-A1F486DF2BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73EF0E87-F044-44E8-84A4-A1F486DF2BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73EF0E87-F044-44E8-84A4-A1F486DF2BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73EF0E87-F044-44E8-84A4-A1F486DF2BEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
