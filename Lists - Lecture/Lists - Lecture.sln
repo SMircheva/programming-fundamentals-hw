@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SumAdjacentEqualNumbers"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SplitByCasing", "04.SplitByCasing\04.SplitByCasing.csproj", "{2A081E8E-14F0-43C0-8290-92CD51290B4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CountNumbers", "07.CountNumbers\07.CountNumbers.csproj", "{665C5AB9-D8C5-4201-9D88-73E934CC2F12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2A081E8E-14F0-43C0-8290-92CD51290B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A081E8E-14F0-43C0-8290-92CD51290B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A081E8E-14F0-43C0-8290-92CD51290B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665C5AB9-D8C5-4201-9D88-73E934CC2F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665C5AB9-D8C5-4201-9D88-73E934CC2F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665C5AB9-D8C5-4201-9D88-73E934CC2F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665C5AB9-D8C5-4201-9D88-73E934CC2F12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
