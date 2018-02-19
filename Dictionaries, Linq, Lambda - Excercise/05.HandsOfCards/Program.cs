@@ -11,34 +11,40 @@ namespace _05.HandsOfCards
         static void Main(string[] args)
         {
             var cards = new Dictionary<string, List<string>>();
-            var command = Console.ReadLine()
-                .Split(new char[] { ' ', ',',':' }, StringSplitOptions.RemoveEmptyEntries)
+            var commandRaw = Console.ReadLine()
+                .Split(':')
                 .ToArray();
-            while(command[0] != "JOKER")
+            
+
+            while (commandRaw[0] != "JOKER")
             {
-                if (cards.ContainsKey(command[0]))
+                var command = commandRaw[1]
+                .Split(new char[] { ' ', ',', ':' }, StringSplitOptions.RemoveEmptyEntries)
+                .ToArray();
+                var player = commandRaw[0];
+                if (cards.ContainsKey(player))
                 {
-                    for (int i = 1; i < command.Length; i++)
+                    for (int i = 0; i < command.Length; i++)
                     {
-                        if (!cards[command[0]].Contains(command[i]))
+                        if (!cards[player].Contains(command[i]))
                         {
-                            cards[command[0]].Add(command[i]);
+                            cards[player].Add(command[i]);
                         }
                     }
                 }
                 else
                 {
-                    cards.Add(command[0], new List<string>());
-                    for (int i = 1; i < command.Length; i++)
+                    cards.Add(player, new List<string>());
+                    for (int i = 0; i < command.Length; i++)
                     {
-                        if (!cards[command[0]].Contains(command[i]))
+                        if (!cards[player].Contains(command[i]))
                         {
-                            cards[command[0]].Add(command[i]);
+                            cards[player].Add(command[i]);
                         }
                     }
                 }
-                command = Console.ReadLine()
-                .Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries)
+                commandRaw = Console.ReadLine()
+                .Split(':')
                 .ToArray();
             }
 
