@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B4D8C24-F937-44E3-ADEF-94A2F1F8FB6D}</ProjectGuid>
+    <ProjectGuid>{D8A6B207-9ED5-487D-B42A-456E8CCE2BE6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.ValidUsernames</RootNamespace>
-    <AssemblyName>06.ValidUsernames</AssemblyName>
+    <RootNamespace>_03.NetherRealms</RootNamespace>
+    <AssemblyName>03.NetherRealms</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -14,7 +14,7 @@ namespace _05.KeyReplacer
             var input1 = Console.ReadLine();
             string textToSerach = Console.ReadLine();
             //string keys = @"([a-zA-Z]+)[|<\\]?.+[|.\\]([a-zA-Z]+)";
-            string keys = @"([a-zA-Z]+)[|<\\]+.*[|<\\]+([a-zA-Z]+)";
+            string keys = @"([a-zA-Z]+)[|<\\]?.+[|.\\]([a-zA-Z]+)";
 
 
             string start = Regex.Match(input1,keys).Groups[1].ToString();

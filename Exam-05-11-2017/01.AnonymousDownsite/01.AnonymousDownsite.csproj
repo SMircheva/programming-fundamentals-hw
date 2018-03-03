@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B4D8C24-F937-44E3-ADEF-94A2F1F8FB6D}</ProjectGuid>
+    <ProjectGuid>{5F66D9ED-F4ED-46B2-A94B-8B6DB5CF0334}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.ValidUsernames</RootNamespace>
-    <AssemblyName>06.ValidUsernames</AssemblyName>
+    <RootNamespace>_01.AnonymousDownsite</RootNamespace>
+    <AssemblyName>01.AnonymousDownsite</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BigInteger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

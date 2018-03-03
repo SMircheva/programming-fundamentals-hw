@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B4D8C24-F937-44E3-ADEF-94A2F1F8FB6D}</ProjectGuid>
+    <ProjectGuid>{ACCF5825-E373-41C7-BE0B-6E6C442783B7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.ValidUsernames</RootNamespace>
-    <AssemblyName>06.ValidUsernames</AssemblyName>
+    <RootNamespace>_02.Snowmen</RootNamespace>
+    <AssemblyName>02.Snowmen</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

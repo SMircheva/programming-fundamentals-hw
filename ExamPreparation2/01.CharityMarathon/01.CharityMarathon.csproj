@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B4D8C24-F937-44E3-ADEF-94A2F1F8FB6D}</ProjectGuid>
+    <ProjectGuid>{8904C16D-F37F-4DA5-9732-FF275E3F21C4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.ValidUsernames</RootNamespace>
-    <AssemblyName>06.ValidUsernames</AssemblyName>
+    <RootNamespace>_01.CharityMarathon</RootNamespace>
+    <AssemblyName>01.CharityMarathon</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

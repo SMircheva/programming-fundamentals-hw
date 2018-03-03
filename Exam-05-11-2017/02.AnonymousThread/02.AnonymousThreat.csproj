@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B4D8C24-F937-44E3-ADEF-94A2F1F8FB6D}</ProjectGuid>
+    <ProjectGuid>{CA4DEDD8-1197-4398-AECA-D20F1C13F102}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_06.ValidUsernames</RootNamespace>
-    <AssemblyName>06.ValidUsernames</AssemblyName>
+    <RootNamespace>_02.AnonymousThread</RootNamespace>
+    <AssemblyName>02.AnonymousThread</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
