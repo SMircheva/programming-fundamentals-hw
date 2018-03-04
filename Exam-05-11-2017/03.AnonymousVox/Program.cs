@@ -14,6 +14,7 @@ namespace _03.AnonymousVox
             string pattern = @"([a-zA-Z]+)(.+)(\1)";
             string encodedText = Console.ReadLine();
             string[] placeholders = Console.ReadLine().Split(new char[] { '{', '}' }, StringSplitOptions.RemoveEmptyEntries).ToArray();
+            
             MatchCollection matches = Regex.Matches(encodedText, pattern);
 
             for (int i = 0; i < Math.Min(placeholders.Length, matches.Count); i++)

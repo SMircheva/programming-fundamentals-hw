@@ -49,7 +49,7 @@ namespace _04.AnonymousCache
                 {
                     string currentName = commands[2];
                     string currentKey = commands[0];
-                    int currentSize = int.Parse(commands[1]);
+                    long currentSize = long.Parse(commands[1]);
 
                     //check if dataset exists                    
                     //if it exists - add to data set
@@ -80,7 +80,7 @@ namespace _04.AnonymousCache
             }
 
             var maxName = "";
-            var maxSize = 0;
+            long maxSize = 0;
             var maxKeys = new List<string>();
 
             foreach (var dataItem in data)
@@ -93,6 +93,16 @@ namespace _04.AnonymousCache
                 }
             }
 
+            if (data.Count == 0)
+            {
+                return;
+            }
+            if (maxSize == 0)
+            {
+                return;
+            }
+
+
             Console.WriteLine($"Data Set: {maxName}, Total Size: {maxSize}");
             foreach (var key in maxKeys)
             {
@@ -103,7 +113,7 @@ namespace _04.AnonymousCache
         public class DataSet
         {
             public List<string> Keys { get; set; }
-            public int Size { get; set; }
+            public long Size { get; set; }
         }
     }
 }
